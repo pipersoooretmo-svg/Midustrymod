@@ -1,0 +1,23 @@
+#the mod name as displayed in-game
+displayName: "Lumina - Visual Overhaul"
+
+#the internal name of the mod
+name: "lumina"
+
+author: "Pipersooo"
+
+#the fully qualified main class of the mod
+main: "lumina.LuminaMod"
+
+description: "Upgrades how Mindustry looks and sounds without touching gameplay: richer turret, bullet and explosion effects, bullet and aircraft trails, colour grading, a restyled interface, an animated main menu and extra sounds. Everything can be tuned or switched off in Settings > Lumina."
+
+version: 1.0.0
+
+#the minimum game build required to run this mod
+minGameVersion: 160
+
+#this is a java mod
+java: true
+
+#client-side only: adds no content, so it is not required to join servers
+hidden: true
